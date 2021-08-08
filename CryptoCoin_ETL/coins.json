@@ -1,0 +1,10 @@
+{
+	"btc": 1, 
+	"eth": 2, 
+	"litecoin": 7,
+	"cardano": 9,
+	"monero": 10,
+	"stellar": 6,
+	"tezos": 18,
+	"dash": 13
+}
