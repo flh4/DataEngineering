@@ -3,7 +3,6 @@ from time import sleep
 from requests import request 
 from argparse import ArgumentParser
 from geopy.geocoders import Nominatim
-from time import sleep
 
 def getApi_Key():
 	with open("key.txt") as f:
