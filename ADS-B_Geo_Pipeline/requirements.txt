@@ -1,1 +1,12 @@
-
+pandas
+pyhive
+tabulate
+folium
+subprocess
+pyspark
+json
+kafka
+time
+requests
+argparse
+geopy.geocoders
